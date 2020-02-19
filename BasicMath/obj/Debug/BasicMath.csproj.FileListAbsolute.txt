@@ -1,0 +1,11 @@
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.exe
+c:\users\raviranjankr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
+C:\Users\RaviRanjanKr\documents\visual studio 2015\Projects\BasicMath\BasicMath\obj\Debug\BasicMath.csprojResolveAssemblyReference.cache
+C:\Users\mohapap\Downloads\UnitTest\BasicMath\BasicMath\bin\Debug\BasicMath.exe
+C:\Users\mohapap\Downloads\UnitTest\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+C:\Users\mohapap\Downloads\UnitTest\BasicMath\BasicMath\obj\Debug\BasicMath.csprojAssemblyReference.cache
+C:\Users\mohapap\Downloads\UnitTest\BasicMath\BasicMath\obj\Debug\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\mohapap\Downloads\UnitTest\BasicMath\BasicMath\obj\Debug\BasicMath.exe
+C:\Users\mohapap\Downloads\UnitTest\BasicMath\BasicMath\obj\Debug\BasicMath.pdb
